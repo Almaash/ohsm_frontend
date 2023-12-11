@@ -1,0 +1,31 @@
+.container-2 .card{
+    margin-top: 50px;
+    width: 700px;
+}
+.container-2 .left{
+    background-color: white;
+}
+.container-2 .right{
+    background-color: #531b3c;
+}
+
+.container-2 img{
+    border-radius: 10px;
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 200px;
+    width: 500px;
+}
+
+.container-2 h1{
+    color: white;
+    font-size: 70px;
+    padding-top: 50px;
+}
+.container-2 .card{
+    background-color: rgb(250, 231, 250);
+}
+
+.container-2 .card input{
+    background-color: rgb(246, 250, 253);
+}

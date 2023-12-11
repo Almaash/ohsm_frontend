@@ -1,0 +1,27 @@
+
+.container-prop2 form{
+    border-radius: 20px;
+    width: 700px;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.container-prop2 .form-control{
+    width: 400px;
+    margin-top: 20px;
+}
+
+.container-prop2 label{
+    padding-top: 30px;
+    padding-left: 60px;
+}
+
+.container-prop2 h2{
+
+    /* padding-top: 100px; */
+    padding-left: 20px;
+    position: fixed;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: white;
+}
